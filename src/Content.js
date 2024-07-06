@@ -1,7 +1,7 @@
 const contentCard = [
     {
         id: 1,
-        title: 'HeavenHub1',
+        title: 'HeavenHub',
         body: 'It is a full-stack hotel booking web application using the MERN stack with JWT authentication for secure user access. It containes integrated features include hotel search, an admin dashboard for management, and a responsive, efficient user experience.',
         image: 'https://res.cloudinary.com/dg0oew5d9/image/upload/v1720266791/portfolio/heaven-hub_tg38ep.gif',
         tech: `REACT REDUX NODEJS EXPRESSJS MONGODB REST APIs GIT`,
